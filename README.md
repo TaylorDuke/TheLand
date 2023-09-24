@@ -1,2 +1,3 @@
-# TheLand
-My first repository!
+### IT1025 Course Accomplishments
+
+File name: Purpose...
