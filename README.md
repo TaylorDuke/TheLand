@@ -4,3 +4,4 @@
 ### CBClogo.png is the logo I will be using for my Cleveland Baseball Club website.
 ### Filename: AdditionVisualization.pdf is a flowchart I created in Visio that defines the process to find the sum of Z, where Z equals X plus Y.
 ### Filename: Python.png is a code in python that displays the value of Z, where Z equals X plus Y.
+### Filename: TaylorVonvilleFlowerClass is a class diagram for a flower created in Visio.
