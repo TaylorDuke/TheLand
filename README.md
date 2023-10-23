@@ -5,3 +5,5 @@
 ### Filename: AdditionVisualization.pdf is a flowchart I created in Visio that defines the process to find the sum of Z, where Z equals X plus Y.
 ### Filename: Python.png is a code in python that displays the value of Z, where Z equals X plus Y.
 ### Filename: TaylorVonvilleFlowerClass is a class diagram for a flower created in Visio.
+### Filename: Flower.py is code written in python that constructs the class Flower and defines the objects within the class. 
+# Filename: PythonOOP.png is a screenshot of the Flower class code and the finished product that was run in Python. Also includes comments explaining each line of code. 
