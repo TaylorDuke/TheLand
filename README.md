@@ -7,3 +7,4 @@
 ### Filename: TaylorVonvilleFlowerClass is a class diagram for a flower created in Visio.
 ### Filename: Flower.py is code written in python that constructs the class Flower and defines the objects within the class. 
 ### Filename: PythonOOP.png is a screenshot of the Flower class code and the finished product that was run in Python. Also includes comments explaining each line of code. 
+### Filename: NetworkDesign.png is a network diagram created in Visio of my network at work. It is in star topology, because I believe that is the most effecient for this network. Three PCs are connected to a router that also has a printed connected to it. All 3 PCs and printer can communicate through the router.
